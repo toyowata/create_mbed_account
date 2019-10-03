@@ -17,7 +17,7 @@ https://www.mbed.com/en/ ページにアクセスします。
 
 以下の画面が表示されます。
 
-![](./pict/account_login_state.png)
+<img src="./pict/account_login_state.png" width="800">
 
 Email address : emailアドレスを入力します。  
 Username : Mbed開発サイトで使用する任意のユーザー名を入力します（英数字を使ってください）。  
