@@ -5,7 +5,7 @@
 ## 登録ページを開く
 
 https://www.mbed.com/en/ ページにアクセスします。  
-以下の`Create an Mbed Account to Get Started`をクリックします。
+以下の`Sign up for free`ボタンをクリックします。
 
 ![](./pict/mbed_com.png)
 
